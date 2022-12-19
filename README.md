@@ -53,8 +53,8 @@ Please note the time is in CET.
     <td>Agent Inspired Design: The Game of Life but not as we know it</td>
   </tr>
   
-  <tr>
-    <td style="text-align:center; background-color:8acbea" colspan="3"><strong>Coffee Break (15 minutes)</strong></td>
+  <tr height="70px" style="background-color:8acbea">
+    <td style="text-align:center" colspan="3"><strong>Coffee Break (15 minutes)</strong></td>
   </tr>
   
   <tr>
@@ -76,7 +76,7 @@ Please note the time is in CET.
   </tr>
   
   
-  <tr>
+  <tr height="70px">
     <td style="text-align:center" colspan="3"><strong>Lunch Break (1 hour and 15 minutes)</strong></td>
   </tr>
   
@@ -93,7 +93,7 @@ Please note the time is in CET.
     <td>Airbnb Listings Analysis and Story Telling- Taking London <br />and Westminster City Council as an example</td>
   </tr>
   
-  <tr>
+  <tr height="70px">
     <td style="text-align:center" colspan="3"><strong>Coffee Break (15 minutes)</strong></td>
   </tr>
   
@@ -125,7 +125,7 @@ Please note the time is in CET.
     <td>Using Arabic Named Entity Recognition Models</td>
   </tr>
   
-  <tr>
+  <tr height="70px">
     <td style="text-align:center" colspan="3"><strong>Workshop Conclusion</strong></td>
   </tr>
   
