@@ -126,7 +126,7 @@ Please note the time is in CET.
   </tr>
   
   <tr>
-    <td align="center", colspan="3">Workshop Conclusion</td>
+    <td colspan="3">Workshop Conclusion</td>
   </tr>
   
   <tr>
