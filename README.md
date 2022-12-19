@@ -18,7 +18,7 @@ The Zoom link will be shared soon.
 
 
 # Agenda for the day
-Please note the time is in CET.
+Please note the time is in GMT.
 
 
 
