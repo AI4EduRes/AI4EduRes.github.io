@@ -17,7 +17,7 @@ Please note the time is in CET.
 
 
 
-<table style="width:150%">
+<table style="width:100%">
   <tr>
     <th>Time</th>
     <th>Presenter</th>
