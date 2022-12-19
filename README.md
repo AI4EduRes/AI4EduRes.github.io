@@ -24,7 +24,7 @@ Please note the time is in CET.
 
 <table style="width:100%">
   <tr>
-    <th>Time</th>
+    <th width="15%">Time</th>
     <th>Presenter</th>
     <th>Topic</th>
   </tr>
@@ -77,7 +77,7 @@ Please note the time is in CET.
   
   
   <tr>
-    <td style="text-align:center" colspan="3">Lunch Break (1 hour and 15 minutes)</td>
+    <td style="text-align:center" colspan="3"><strong>Lunch Break (1 hour and 15 minutes)</strong></td>
   </tr>
   
   
@@ -94,7 +94,7 @@ Please note the time is in CET.
   </tr>
   
   <tr>
-    <td style="text-align:center" colspan="3">Coffee Break (15 minutes)</td>
+    <td style="text-align:center" colspan="3"><strong>Coffee Break (15 minutes)</strong></td>
   </tr>
   
   <tr>
@@ -126,7 +126,7 @@ Please note the time is in CET.
   </tr>
   
   <tr>
-    <td style="text-align:center" colspan="3">Workshop Conclusion</td>
+    <td style="text-align:center" colspan="3"><strong>Workshop Conclusion</strong></td>
   </tr>
   
   <tr>
@@ -137,5 +137,5 @@ Please note the time is in CET.
 </table>
 
 
-# Presentaions 
+# Presentations 
 We will showcase the presentations after the workshop.
