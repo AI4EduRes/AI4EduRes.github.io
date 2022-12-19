@@ -54,7 +54,7 @@ Please note the time is in CET.
   </tr>
   
   <tr>
-    <td colspan="3">Coffee Break (15 minutes)</td>
+    <td style="text-align:center" colspan="3">**Coffee Break (15 minutes)**</td>
   </tr>
   
   <tr>
@@ -77,7 +77,7 @@ Please note the time is in CET.
   
   
   <tr>
-    <td colspan="3">Lunch Break (1 hour and 15 minutes)</td>
+    <td style="text-align:center" colspan="3">**Lunch Break (1 hour and 15 minutes)**</td>
   </tr>
   
   
@@ -94,11 +94,11 @@ Please note the time is in CET.
   </tr>
   
   <tr>
-    <td colspan="3">Coffee Break (15 minutes)</td>
+    <td style="text-align:center" colspan="3">**Coffee Break (15 minutes)**</td>
   </tr>
   
   <tr>
-    <td colspan="3">PGR Students (University of Leeds)</td>
+    <td style="text-align:center" colspan="3">PGR Students (University of Leeds)</td>
   </tr>
   
   <tr>
@@ -126,7 +126,7 @@ Please note the time is in CET.
   </tr>
   
   <tr>
-    <td style="text-align:center" colspan="3">Workshop Conclusion</td>
+    <td style="text-align:center" colspan="3">**Workshop Conclusion**</td>
   </tr>
   
   <tr>
