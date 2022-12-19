@@ -54,7 +54,7 @@ Please note the time is in CET.
   </tr>
   
   <tr>
-    <td style="text-align:center" style= "background-color:8acbea" colspan="3"><strong>Coffee Break (15 minutes)</strong></td>
+    <td style="text-align:center; background-color:8acbea" colspan="3"><strong>Coffee Break (15 minutes)</strong></td>
   </tr>
   
   <tr>
