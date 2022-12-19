@@ -1,7 +1,8 @@
-# AI4EduRes.github.io
+<!--# AI4EduRes.github.io !-->
+# AI, Data Science and Text Analytics Resources for Education
 
 
-Welcome to Data Science and Text Analytics for Education Resources Workshop
+Welcome to AI, Data Science and Text Analytics Resources for Education Resources Workshop. 
 
 
 # Place & Time
@@ -132,3 +133,5 @@ Please note the time is in CET.
 </table>
 
 
+# Presentaions 
+We will showcase the presentations after the workshop.
