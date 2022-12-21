@@ -7,7 +7,7 @@
 
 
 Welcome to our AI4EduRes'2022 Workshop on Artificial Intelligence for Education Resources,
-hosted by Noorhan Abbas, Abdullah Alsaleh and Eric Atwell, University of Leeds;
+hosted by Noorhan Abbas, Eric Atwell and Abdullah Alsaleh, University of Leeds;
 supported by the Alan Turing Institute https://www.turing.ac.uk/
 
 
@@ -33,7 +33,7 @@ Please note the time is in GMT.
   
   <tr>
     <td>9:20 - 9:30</td>
-    <td>Noorhan Abbas, Eric Atwell and Abdullah Alsaleh</td>
+    <td>Noorhan Abbas, Eric Atwell and Abdullah Alsaleh <br /> (University of Leeds)</td>
     <td>Introduction</td>
   </tr>
   
@@ -98,32 +98,32 @@ Please note the time is in GMT.
   <tr height="70px">
     <td style="text-align:center" colspan="3"><strong>Coffee Break (15 minutes)</strong></td>
   </tr>
-  
+<!--
   <tr>
     <td style="text-align:center" colspan="3">PGR Students (University of Leeds)</td>
   </tr>
-  
+!-->
   <tr>
     <td>15:15 - 15:30</td>
-    <td>Alaa Alsaqer</td>
+    <td>Alaa Alsaqer <br /> (King Faisal University and University of Leeds)</td>
     <td>How to create a coffee machine system with Python</td>
   </tr>
-  
+
   <tr>
     <td>15:30 – 15:45</td>
-    <td>Salwa Alahmari</td>
+    <td>Salwa Alahmari <br /> (University of Dammam and University of Leeds)</td>
     <td>Social Media Resources for Arabic Dialects and Variations</td>
   </tr>
   
   <tr>
     <td>15:45 – 16:00</td>
-    <td>Abdullah Alsaleh</td>
+    <td>Abdullah Alsaleh <br /> (King Abdulaziz University and University of Leeds)</td>
     <td>Quran Verse Similarity Classification Task using Arabic Pre-trained Models</td>
   </tr>
   
   <tr>
     <td>16:00 – 16:15</td>
-    <td>Ibtisam Alshammari</td>
+    <td>Ibtisam Alshammari <br /> (University of Hafr Al-Batin and University of Leeds)</td>
     <td>Using Arabic Named Entity Recognition Models</td>
   </tr>
   
@@ -133,7 +133,7 @@ Please note the time is in GMT.
   
   <tr>
     <td>16:15 – 16:30</td>
-    <td>Noorhan Abbas, Eric Atwell and Abdullah Alsaleh</td>
+    <td>Noorhan Abbas, Eric Atwell and Abdullah Alsaleh <br /> (University of Leeds)</td>
     <td>Workshop conclusions and future directions</td>
   </tr>
 </table>
