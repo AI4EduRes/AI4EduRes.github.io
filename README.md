@@ -2,18 +2,18 @@
 # AI, Data Science and Text Analytics Resources for Education !-->
 
 <h1 align="center">
-  Artificial Intelligence, Data Science and Text Analytics Resources for Education
+  Artificial Intelligence, Data Science and Text Analytics Resources for Education Resources
 </h1>
 
-
-Welcome to our AI4EduRes'2022 Workshop on Artificial Intelligence for Education Resources,
-hosted by Noorhan Abbas, Eric Atwell and Abdullah Alsaleh, University of Leeds;
+<p align=center>
+Welcome to our AI4EduRes'2022 Workshop on Artificial Intelligence for Education Resources, <br />
+hosted by Noorhan Abbas, Eric Atwell and Abdullah Alsaleh, University of Leeds; <br />
 supported by the Alan Turing Institute https://www.turing.ac.uk/
-
+</p>
 
 # Place & Time
 
-The workshop will take place online via Zoom. It will be on 10 January 2023
+The workshop will take place online via **Zoom**. It will be on **10 January 2023**.
 
 ## Zoom Link
 The Zoom link will be shared soon.
