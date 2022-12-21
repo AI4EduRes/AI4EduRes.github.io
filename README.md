@@ -43,13 +43,13 @@ Please note the time is in GMT.
   
   <tr>
     <td>10:15 - 10:30</td>
-    <td>Dr Aisha Walker <br /> (University of Leeds)</td>
+    <td>Aisha Walker <br /> (University of Leeds)</td>
     <td>Dialogic Learning</td>
   </tr>
   
   <tr>
     <td>10:30 - 10:45</td>
-    <td>Dr William Teahan <br />(Bangor University)</td>
+    <td>William Teahan <br />(Bangor University)</td>
     <td>Agent Inspired Design: The Game of Life but not as we know it</td>
   </tr>
   
