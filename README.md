@@ -26,7 +26,7 @@ Please note the time is in GMT.
 
 <table style="width:100%">
   <tr>
-    <th width="15%">Time</th>
+    <th width="13%">Time</th>
     <th>Presenter</th>
     <th>Topic</th>
   </tr>
