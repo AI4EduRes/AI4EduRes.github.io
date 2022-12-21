@@ -2,11 +2,13 @@
 # AI, Data Science and Text Analytics Resources for Education !-->
 
 <h1 align="center">
-  AI, Data Science and Text Analytics Resources for Education
+  Artificial Intelligence, Data Science and Text Analytics Resources for Education
 </h1>
 
 
-Welcome to AI, Data Science and Text Analytics Resources for Education Resources Workshop. 
+Welcome to our AI4EduRes'2022 Workshop on Artificial Intelligence for Education Resources,
+hosted by Noorhan Abbas, Abdullah Alsaleh and Eric Atwell, University of Leeds;
+supported by the Alan Turing Institute https://www.turing.ac.uk/
 
 
 # Place & Time
@@ -31,7 +33,7 @@ Please note the time is in GMT.
   
   <tr>
     <td>9:20 - 9:30</td>
-    <td>Noorhan Abbas & Eric Atwell</td>
+    <td>Noorhan Abbas, Eric Atwell and Abdullah Alsaleh</td>
     <td>Introduction</td>
   </tr>
   
@@ -89,7 +91,7 @@ Please note the time is in GMT.
   
   <tr>
     <td>14:00 - 15:00</td>
-    <td>Dr Yijing Li <br /> (Kings College London)</td>
+    <td>Yijing Li <br /> (Kings College London)</td>
     <td>Airbnb Listings Analysis and Story Telling- Taking London <br />and Westminster City Council as an example</td>
   </tr>
   
@@ -131,7 +133,7 @@ Please note the time is in GMT.
   
   <tr>
     <td>16:15 – 16:30</td>
-    <td>Noorhan Abbas & Eric Atwell</td>
+    <td>Noorhan Abbas, Eric Atwell and Abdullah Alsaleh</td>
     <td>Workshop conclusions and future directions</td>
   </tr>
 </table>
