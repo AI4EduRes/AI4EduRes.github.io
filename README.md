@@ -92,7 +92,7 @@ Please note the time is in GMT.
   <tr>
     <td>14:00 - 15:00</td>
     <td>Yijing Li <br /> (Kings College London)</td>
-    <td>Airbnb Listings Analysis and Story Telling- Taking London and Westminster City Council as an example</td>
+    <td>Airbnb Listings Analysis and Story Telling - Taking London and Westminster City Council as an example</td>
   </tr>
   
   <tr height="70px">
