@@ -2,7 +2,7 @@
 # AI, Data Science and Text Analytics Resources for Education !-->
 
 <h1 align="center">
-  Artificial Intelligence, Data Science and Text Analytics Resources for Education Resources
+  Artificial Intelligence, Data Science and Text Analytics for Education Resources
 </h1>
 
 <p align=center>
