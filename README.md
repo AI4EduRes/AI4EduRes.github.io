@@ -1,5 +1,7 @@
 <!--# AI4EduRes.github.io 
 # AI, Data Science and Text Analytics Resources for Education !-->
+<!-- please email ai4educationresources@gmail.com for any inquiries. Thanks !-->
+
 
 <h1 align="center">
   Artificial Intelligence, Data Science and Text Analytics for Education Resources
