@@ -17,8 +17,8 @@ supported by the <a href="[url](https://www.turing.ac.uk)">Alan Turing Institute
 
 The workshop will take place online via **Zoom**. It will be on **10 January 2023**.
 
-## Zoom Link
-The link will be shared soon.
+# Registration
+Please register using this [link](https://www.eventbrite.co.uk/e/ai4edures2022-workshop-on-artificial-intelligence-for-education-resources-tickets-500783756697) via EventBrite and you'll receive a confirmation email along with the link to the Workshop's Zoom Link. Please contact [Abdullah Alsaleh](mailto:scanaa@leeds.ac.uk) if you have any issues.
 
 
 
