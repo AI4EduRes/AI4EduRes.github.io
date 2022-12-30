@@ -18,7 +18,10 @@ supported by the <a href="[url](https://www.turing.ac.uk)">Alan Turing Institute
 The workshop will take place online via **Zoom**. It will be on **10 January 2023**.
 
 ## Zoom Link
-The Zoom link will be shared soon.
+Please join the workshop using this [Zoom LINK](https://universityofleeds.zoom.us/j/88639490559?pwd=K2pjVEVITjNhMGZxRDFnalR2UmdPZz09)
+
+Meeting ID: 886 3949 0559 <br />
+Passcode: ?J1Ync
 
 
 # Agenda for the day
