@@ -129,13 +129,22 @@ Please note the time is in GMT.
     <td>Ibtisam Alshammari <br /> (University of Hafr Al-Batin and University of Leeds)</td>
     <td>Using Arabic Named Entity Recognition Models</td>
   </tr>
+
+  <tr>
+    <td>16:15 – 16:30</td>
+    <td>Jarrad Jinks <br /> (University of Leeds)</td>
+    <td>Fine-Tuning RoBERTa for Downstream Tasks</td>
+  </tr>
+
+
+The presentation title is 
   
   <tr height="70px">
     <td style="text-align:center" colspan="3"><strong>Workshop Conclusion</strong></td>
   </tr>
   
   <tr>
-    <td>16:15 – 16:30</td>
+    <td>16:30 – 16:45</td>
     <td>Noorhan Abbas, Eric Atwell and Abdullah Alsaleh <br /> (University of Leeds)</td>
     <td>Workshop conclusions and future directions</td>
   </tr>
