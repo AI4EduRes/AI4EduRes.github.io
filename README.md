@@ -8,7 +8,7 @@
 </h1>
 
 <p align=center>
-Welcome to our AI4EduRes'2022 Workshop on Artificial Intelligence for Education Resources, <br />
+Welcome to our AI4EduRes'2023 Workshop on Artificial Intelligence for Education Resources, <br />
 hosted by Noorhan Abbas, Eric Atwell and Abdullah Alsaleh, University of Leeds; <br />
 supported by the <a href="[url](https://www.turing.ac.uk)">Alan Turing Institute</a>.
 </p>
