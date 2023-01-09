@@ -23,7 +23,14 @@ Please register using this [link via EventBrite](https://www.eventbrite.co.uk/e/
 When you receive an email from EventBrite, please click on the "View the event" on the email.
 
 <p align="middle">
-  <img src="https://github.com/AI4EduRes/AI4EduRes.github.io/blob/baee0579d9142e3b26604e3f0c41157a3039e708/pic/instruction.png" width="500"/>
+  <img src="https://github.com/AI4EduRes/AI4EduRes.github.io/blob/baee0579d9142e3b26604e3f0c41157a3039e708/pic/instruction.png" width="450" />
+  <br />
+  <br />
+  <p align="left"> Then click "join the event" on the EventBrite page. </p>
+  <p align="middle">
+  <img src="https://github.com/AI4EduRes/AI4EduRes.github.io/blob/d09943b44b02ac5f895f284874d8e2ace86e5e3e/pic/instruction2.png" width="450" align="middle"/> </p>
+  <br />
+
 </p>
 
 Please contact [Abdullah Alsaleh](mailto:scanaa@leeds.ac.uk) if you have any issues.
