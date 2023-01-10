@@ -1,6 +1,4 @@
-<!--# AI4EduRes.github.io 
-# AI, Data Science and Text Analytics Resources for Education !-->
-<!-- please email ai4educationresources@gmail.com for any inquiries. Thanks !-->
+
 
 
 <h1 align="center">
@@ -18,31 +16,7 @@ supported by the <a href="[url](https://www.turing.ac.uk)">Alan Turing Institute
 The workshop took place online via **Zoom**. It was on **10 January 2023**.
 
 
-<!--
-# Zoom Link
-Please use this link to join us. 
-https://universityofleeds.zoom.us/j/88639490559?pwd=K2pjVEVITjNhMGZxRDFnalR2UmdPZz09
 
-
-# Registration
-Please register using this [link via EventBrite](https://www.eventbrite.co.uk/e/ai4edures2022-workshop-on-artificial-intelligence-for-education-resources-tickets-500783756697). 
-
-When you receive the registration confirmation email from EventBrite, please click "View the event" button on the email. After you log in to EventBrite page, click "join the event" which has the Zoom link.
-
-<!--
-<p align="middle">
-  <img src="https://github.com/AI4EduRes/AI4EduRes.github.io/blob/baee0579d9142e3b26604e3f0c41157a3039e708/pic/instruction.png" width="450" />
-  <br />
-  <br />
-  <p align="left"> Then click "join the event" on the EventBrite page. </p>
-  <p align="middle">
-  <img src="https://github.com/AI4EduRes/AI4EduRes.github.io/blob/d09943b44b02ac5f895f284874d8e2ace86e5e3e/pic/instruction2.png" width="450" align="middle"/> </p>
-  <br />
-
-</p>
-
-Please contact [Abdullah Alsaleh](mailto:scanaa@leeds.ac.uk) if you have any issues.
-!-->
 
 
 # Agenda for the day
@@ -124,11 +98,7 @@ Please note the time is in GMT.
   <tr height="70px">
     <td style="text-align:center" colspan="3"><strong>Coffee Break (15 minutes)</strong></td>
   </tr>
-<!--
-  <tr>
-    <td style="text-align:center" colspan="3">PGR Students (University of Leeds)</td>
-  </tr>
-!-->
+
   <tr>
     <td>15:15 - 15:30</td>
     <td>Alaa Alsaqer <br /> (King Faisal University and University of Leeds)</td>
@@ -160,7 +130,7 @@ Please note the time is in GMT.
   </tr>
 
 
-<!--The presentation title is !-->
+
   
   <tr height="70px">
     <td style="text-align:center" colspan="3"><strong>Workshop Conclusion</strong></td>
@@ -176,3 +146,33 @@ Please note the time is in GMT.
 
 # Presentations 
 We will showcase the presentations after the workshop.
+
+<!--# AI4EduRes.github.io 
+# AI, Data Science and Text Analytics Resources for Education !-->
+<!-- please email ai4educationresources@gmail.com for any inquiries. Thanks !-->
+
+<!--
+# Zoom Link
+Please use this link to join us. 
+https://universityofleeds.zoom.us/j/88639490559?pwd=K2pjVEVITjNhMGZxRDFnalR2UmdPZz09
+
+
+# Registration
+Please register using this [link via EventBrite](https://www.eventbrite.co.uk/e/ai4edures2022-workshop-on-artificial-intelligence-for-education-resources-tickets-500783756697). 
+
+When you receive the registration confirmation email from EventBrite, please click "View the event" button on the email. After you log in to EventBrite page, click "join the event" which has the Zoom link.
+
+
+<p align="middle">
+  <img src="https://github.com/AI4EduRes/AI4EduRes.github.io/blob/baee0579d9142e3b26604e3f0c41157a3039e708/pic/instruction.png" width="450" />
+  <br />
+  <br />
+  <p align="left"> Then click "join the event" on the EventBrite page. </p>
+  <p align="middle">
+  <img src="https://github.com/AI4EduRes/AI4EduRes.github.io/blob/d09943b44b02ac5f895f284874d8e2ace86e5e3e/pic/instruction2.png" width="450" align="middle"/> </p>
+  <br />
+
+</p>
+
+Please contact [Abdullah Alsaleh](mailto:scanaa@leeds.ac.uk) if you have any issues.
+!-->
