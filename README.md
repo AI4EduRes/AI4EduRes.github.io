@@ -15,13 +15,15 @@ supported by the <a href="[url](https://www.turing.ac.uk)">Alan Turing Institute
 
 # Place & Time
 
-The workshop will take place online via **Zoom**. It will be on **10 January 2023**.
+The workshop took place online via **Zoom**. It was on **10 January 2023**.
 
+
+<!--
 # Zoom Link
 Please use this link to join us. 
 https://universityofleeds.zoom.us/j/88639490559?pwd=K2pjVEVITjNhMGZxRDFnalR2UmdPZz09
 
-<!--
+
 # Registration
 Please register using this [link via EventBrite](https://www.eventbrite.co.uk/e/ai4edures2022-workshop-on-artificial-intelligence-for-education-resources-tickets-500783756697). 
 
@@ -158,7 +160,7 @@ Please note the time is in GMT.
   </tr>
 
 
-The presentation title is 
+<!--The presentation title is !-->
   
   <tr height="70px">
     <td style="text-align:center" colspan="3"><strong>Workshop Conclusion</strong></td>
