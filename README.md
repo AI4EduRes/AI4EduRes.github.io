@@ -21,7 +21,7 @@ The workshop will take place online via **Zoom**. It will be on **10 January 202
 Please use this link to join us. 
 https://universityofleeds.zoom.us/j/88639490559?pwd=K2pjVEVITjNhMGZxRDFnalR2UmdPZz09
 
-
+<!--
 # Registration
 Please register using this [link via EventBrite](https://www.eventbrite.co.uk/e/ai4edures2022-workshop-on-artificial-intelligence-for-education-resources-tickets-500783756697). 
 
@@ -40,7 +40,7 @@ When you receive the registration confirmation email from EventBrite, please cli
 </p>
 !-->
 Please contact [Abdullah Alsaleh](mailto:scanaa@leeds.ac.uk) if you have any issues.
-
+!-->
 
 
 # Agenda for the day
