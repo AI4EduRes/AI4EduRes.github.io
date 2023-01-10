@@ -38,7 +38,7 @@ When you receive the registration confirmation email from EventBrite, please cli
   <br />
 
 </p>
-!-->
+
 Please contact [Abdullah Alsaleh](mailto:scanaa@leeds.ac.uk) if you have any issues.
 !-->
 
