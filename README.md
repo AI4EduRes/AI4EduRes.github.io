@@ -148,17 +148,19 @@ Please note the time is in GMT.
 Below are the recorded presentations
 
 ### Antonio Martínez-Arboleda
-[![Antonio Martínez-Arboleda](https://img.youtube.com/vi/4zsoj7PpO-E/maxresdefault.jpg)](https://www.youtube.com/watch?v=4zsoj7PpO-E)
+<!--[![Antonio Martínez-Arboleda](https://img.youtube.com/vi/4zsoj7PpO-E/maxresdefault.jpg)](https://www.youtube.com/watch?v=4zsoj7PpO-E)!-->
+{% include youtube.html id="4zsoj7PpO-E" %}
+
 
 ### Aisha Walker
-[![Aisha Walker](https://img.youtube.com/vi/yEkRlFc8fnc/maxresdefault.jpg)](https://www.youtube.com/watch?v=yEkRlFc8fnc)
+{% include youtube.html id="yEkRlFc8fnc" %}
 
 ### Yijing Li
+{% include youtube.html id="stjlUyeEOzM" %}
 
-[![Yijing Li](https://img.youtube.com/vi/stjlUyeEOzM/maxresdefault.jpg)](https://www.youtube.com/watch?v=stjlUyeEOzM)
 
 
-{% include youtube.html id="JLMbpiywVxQ" %}
+
 
 <!--# AI4EduRes.github.io 
 # AI, Data Science and Text Analytics Resources for Education !-->
