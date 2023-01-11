@@ -158,6 +158,8 @@ Below are the recorded presentations
 [![Yijing Li](https://img.youtube.com/vi/stjlUyeEOzM/maxresdefault.jpg)](https://www.youtube.com/watch?v=stjlUyeEOzM)
 
 
+{% include youtube.html id="JLMbpiywVxQ" %}
+
 <!--# AI4EduRes.github.io 
 # AI, Data Science and Text Analytics Resources for Education !-->
 <!-- please email ai4educationresources@gmail.com for any inquiries. Thanks !-->
