@@ -147,9 +147,7 @@ Please note the time is in GMT.
 # Presentations 
 We will showcase the presentations after the workshop.
 
-[![Yijing Li]
-(https://img.youtube.com/vi/stjlUyeEOzM/maxresdefault.jpg)]
-(https://www.youtube.com/watch?v=stjlUyeEOzM)
+[![Yijing Li](https://img.youtube.com/vi/stjlUyeEOzM/maxresdefault.jpg)](https://www.youtube.com/watch?v=stjlUyeEOzM)
 
 
 <!--# AI4EduRes.github.io 
