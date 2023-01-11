@@ -155,6 +155,23 @@ Below are the recorded presentations
 ### Aisha Walker
 {% include youtube.html id="yEkRlFc8fnc" %}
 
+
+### William Teahan
+{% include youtube.html id="1yWop67i588" %}
+
+
+### Isabel Fischer
+{% include youtube.html id="2hvhvWCK07U" %}
+
+
+### Riza Batista-Navarro
+{% include youtube.html id="lRGuhrnPSTA" %}
+
+
+### Martin Callghan
+{% include youtube.html id="5Tee0a_ZshY" %}
+
+
 ### Yijing Li
 {% include youtube.html id="stjlUyeEOzM" %}
 
