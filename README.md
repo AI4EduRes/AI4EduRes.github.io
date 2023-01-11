@@ -145,7 +145,15 @@ Please note the time is in GMT.
 
 
 # Presentations 
-We will showcase the presentations after the workshop.
+Below are the recorded presentations
+
+### Antonio Martínez-Arboleda
+[![Antonio Martínez-Arboleda](https://img.youtube.com/vi/4zsoj7PpO-E/maxresdefault.jpg)](https://www.youtube.com/watch?v=4zsoj7PpO-E)
+
+### Aisha Walker
+[![Aisha Walker](https://img.youtube.com/vi/yEkRlFc8fnc/maxresdefault.jpg)](https://www.youtube.com/watch?v=yEkRlFc8fnc)
+
+### Yijing Li
 
 [![Yijing Li](https://img.youtube.com/vi/stjlUyeEOzM/maxresdefault.jpg)](https://www.youtube.com/watch?v=stjlUyeEOzM)
 
