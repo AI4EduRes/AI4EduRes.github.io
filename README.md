@@ -168,7 +168,7 @@ Below are the recorded presentations
 {% include youtube.html id="lRGuhrnPSTA" %}
 
 
-### Martin Callghan
+### Martin Callaghan
 {% include youtube.html id="5Tee0a_ZshY" %}
 
 
