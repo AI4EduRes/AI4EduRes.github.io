@@ -193,11 +193,12 @@ Below are the recorded presentations. Resources including presentation slides an
 
 
 ### Ibtisam Alshammari
-Coming soon
+{% include youtube.html id="i__MixsavLA" %}
 
 
 ### Jarrad Jinks
-Coming soon
+{% include youtube.html id="LyuUqrI0MXM" %}
+
 
 
 
