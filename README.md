@@ -145,7 +145,7 @@ Please note the time is in GMT.
 
 
 # Presentations 
-Below are the recorded presentations
+Below are the recorded presentations. Resources including presentation slides and jupyter notebooks will be shared very soon.
 
 ### Antonio Martínez-Arboleda
 <!--[![Antonio Martínez-Arboleda](https://img.youtube.com/vi/4zsoj7PpO-E/maxresdefault.jpg)](https://www.youtube.com/watch?v=4zsoj7PpO-E)!-->
@@ -180,6 +180,24 @@ Below are the recorded presentations
 {% include youtube.html id="stjlUyeEOzM" %}
 
 
+### Alaa Alsaqer
+{% include youtube.html id="NLC2vHHSfVY" %}
+
+
+### Salwa Alahmari
+{% include youtube.html id="JvWEwhghHwQ" %}
+
+
+### Abdullah Alsaleh
+{% include youtube.html id="9CTO5q4ifVs" %}
+
+
+### Ibtisam Alshammari
+Coming soon
+
+
+### Jarrad Jinks
+Coming soon
 
 
 
