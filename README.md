@@ -13,7 +13,7 @@ supported by the <a href="[url](https://www.turing.ac.uk)">Alan Turing Institute
 
 # Place & Time
 
-The workshop took place online via **Zoom**. It was on **10 January 2023**.
+The workshop took place online via **Zoom**. It was on **10 January 2023**. Please check the recordings below in the "Presentations" section.
 
 
 
