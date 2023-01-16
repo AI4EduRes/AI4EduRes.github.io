@@ -152,51 +152,51 @@ Below are the recorded presentations. Resources including presentation slides an
 {% include youtube.html id="4zsoj7PpO-E" %}
 
 
-### Aisha Walker
+### Aisha Walker (University of Leeds) - Dialogic Learning
 {% include youtube.html id="yEkRlFc8fnc" %}
 
 
-### William Teahan
+### William Teahan (Bangor University) - Agent Inspired Design: The Game of Life but not as we know it
 {% include youtube.html id="1yWop67i588" %}
 
 
-### Isabel Fischer
+### Isabel Fischer (University of Warwick) - AI-generated Formative Essay and Dissertation Feedback
 {% include youtube.html id="2hvhvWCK07U" %}
 
 
-### Riza Batista-Navarro
+### Riza Batista-Navarro (University of Manchester) - A Pipeline for Generating Fact-checking Explanations
 {% include youtube.html id="lRGuhrnPSTA" %}
 
 
-### Alex Coleman
+### Alex Coleman (University of Leeds) - Reproducible Notebooks for Text Analytics
 {% include youtube.html id="SbAWeXWzybU" %}
 
 
-### Martin Callaghan
+### Martin Callaghan (University of Leeds) - Building Chatbots in the Cloud
 {% include youtube.html id="5Tee0a_ZshY" %}
 
 
-### Yijing Li
+### Yijing Li (Kings College London) - Airbnb Listings Analysis and Story Telling - Taking London and Westminster City Council as an example
 {% include youtube.html id="stjlUyeEOzM" %}
 
 
-### Alaa Alsaqer
+### Alaa Alsaqer (University of Leeds) - How to create a coffee machine system with Python
 {% include youtube.html id="NLC2vHHSfVY" %}
 
 
-### Salwa Alahmari
+### Salwa Alahmari (University of Leeds) - Social Media Resources for Arabic Dialects and Variations
 {% include youtube.html id="JvWEwhghHwQ" %}
 
 
-### Abdullah Alsaleh
+### Abdullah Alsaleh (University of Leeds) - Quran Verse Similarity Classification Task using Arabic Pre-trained Models
 {% include youtube.html id="9CTO5q4ifVs" %}
 
 
-### Ibtisam Alshammari
+### Ibtisam Alshammari (University of Leeds) - Using Arabic Named Entity Recognition Models
 {% include youtube.html id="i__MixsavLA" %}
 
 
-### Jarrad Jinks
+### Jarrad Jinks (University of Leeds) - Fine-Tuning RoBERTa for Downstream Tasks
 {% include youtube.html id="LyuUqrI0MXM" %}
 
 
