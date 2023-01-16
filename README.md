@@ -147,7 +147,7 @@ Please note the time is in GMT.
 # Presentations 
 Below are the recorded presentations. Resources including presentation slides and jupyter notebooks will be shared very soon.
 
-### Antonio Martínez-Arboleda
+### Antonio Martínez-Arboleda (University of Leeds) - Open Educational Practice for Open Research in Student Education and beyond
 <!--[![Antonio Martínez-Arboleda](https://img.youtube.com/vi/4zsoj7PpO-E/maxresdefault.jpg)](https://www.youtube.com/watch?v=4zsoj7PpO-E)!-->
 {% include youtube.html id="4zsoj7PpO-E" %}
 
