@@ -170,7 +170,7 @@ Below are the recorded presentations. Resources including presentation slides an
 
 ### Alex Coleman (University of Leeds) - Reproducible Notebooks for Text Analytics
 {% include youtube.html id="SbAWeXWzybU" %}
-
+[Presentation](https://sparrow0hawk.github.io/slides/notebooks/text-analytics-talk.slides.html#/)
 
 ### Martin Callaghan (University of Leeds) - Building Chatbots in the Cloud
 {% include youtube.html id="5Tee0a_ZshY" %}
