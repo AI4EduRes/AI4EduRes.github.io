@@ -201,6 +201,7 @@ Below are the recorded presentations. Resources including presentation slides an
 
 
 ### Jarrad Jinks (University of Leeds) - Fine-Tuning RoBERTa for Downstream Tasks
+[GitHub Page](https://github.com/jahjinx/AI4EduRes-2023_FT-RoBERTa)
 {% include youtube.html id="LyuUqrI0MXM" %}
 
 
