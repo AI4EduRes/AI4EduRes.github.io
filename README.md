@@ -153,7 +153,7 @@ Below are the recorded presentations. Resources including presentation slides an
 
 
 ### Aisha Walker (University of Leeds) - Dialogic Learning
-[Presentation File](https://github.com/AI4EduRes/AI4EduRes.github.io/blob/cac196d90cc081a982658bdb32be98000343ce41/resources/Dialogue%20for%20learning.ppsx)
+[Presentation File](https://github.com/AI4EduRes/AI4EduRes.github.io/blob/cac196d90cc081a982658bdb32be98000343ce41/resources/Dialogue%20for%20learning.ppsx) - [downloadable link](https://downgit.github.io/#/home?url=https://github.com/AI4EduRes/AI4EduRes.github.io/blob/6cbffab90ea0bc96a648891fb4cbea17e52d8301/resources/Dialogue%20for%20learning.ppsx)
 {% include youtube.html id="yEkRlFc8fnc" %}
 
 
@@ -180,7 +180,7 @@ Below are the recorded presentations. Resources including presentation slides an
 
 
 ### Yijing Li (Kings College London) - Airbnb Listings Analysis and Story Telling - Taking London and Westminster City Council as an example
-[Presentation File](https://github.com/AI4EduRes/AI4EduRes.github.io/blob/cac196d90cc081a982658bdb32be98000343ce41/resources/Airbnb%20Listings%20Pricing%20in%20London_Answers.pdf)
+[Presentation File](https://github.com/AI4EduRes/AI4EduRes.github.io/blob/cac196d90cc081a982658bdb32be98000343ce41/resources/Airbnb%20Listings%20Pricing%20in%20London_Answers.pdf) - [downloadable link](https://downgit.github.io/#/home?url=https://github.com/AI4EduRes/AI4EduRes.github.io/blob/6cbffab90ea0bc96a648891fb4cbea17e52d8301/resources/Airbnb%20Listings%20Pricing%20in%20London_Answers.pdf)
 {% include youtube.html id="stjlUyeEOzM" %}
 
 
