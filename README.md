@@ -153,7 +153,7 @@ Below are the recorded presentations. Resources including presentation slides an
 
 
 ### Aisha Walker (University of Leeds) - Dialogic Learning
-**[Presentation File](https://downgit.github.io/#/home?url=https://github.com/AI4EduRes/AI4EduRes.github.io/blob/6cbffab90ea0bc96a648891fb4cbea17e52d8301/resources/Dialogue%20for%20learning.ppsx)**
+**[Presentation File](https://downgit.github.io/#/home?url=https://github.com/AI4EduRes/AI4EduRes.github.io/blob/27481062862d4e589fa1f7d05b31754073c6292d/resources/Dialogue-for-learning.pdf)**
 {% include youtube.html id="yEkRlFc8fnc" %}
 
 
