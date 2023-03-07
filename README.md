@@ -86,7 +86,7 @@ Please note the time is in GMT.
   <tr>
     <td>13:00 - 14:00</td>
     <td>Martin Callaghan <br /> (University of Leeds)</td>
-    <td>Building Chatbots in the Cloud</td>
+    <td>Large Language Models, GPT3, LangChain and Chatbots</td>
   </tr>
   
   <tr>
@@ -175,7 +175,8 @@ Below are the recorded presentations. Resources including presentation slides an
 
 
 
-### Martin Callaghan (University of Leeds) - Building Chatbots in the Cloud
+### Martin Callaghan (University of Leeds) - Large Language Models, GPT3, LangChain and Chatbots
+**[Jupyter Notebook](https://github.com/callaghanmt-training/using-langchain-1/blob/main/LangChain_GPT3_Chatbots.ipynb)**
 {% include youtube.html id="5Tee0a_ZshY" %}
 
 
